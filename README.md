@@ -1,5 +1,7 @@
 # Authentication-Dashboard-
 Authentication Dashboard By Django
+
+
 To install the project follow these steps:
 
 1-pip install django
