@@ -2,17 +2,17 @@
 Authentication Dashboard By Django
 
 
-<h1>To install the project follow these steps:</h1>
+<h1><u>To install the project follow these steps:</u></h1>
 
-1-pip install django
+<u>1-pip install django</u>
 
-2-pip install Pillow
+<u>2-pip install Pillow</u>
 
-3-py manage.py makemigrations
+<u>3-py manage.py makemigrations</u>
 
-4-py manage.py migrate  
+<u>4-py manage.py migrate</u>
 
-5-py manage.py runserver
+<u>5-py manage.py runserver</u>
 
 
 
