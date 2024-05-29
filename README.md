@@ -3,7 +3,7 @@ Authentication Dashboard By Django
 
 
 <h1><u>To install the project follow these steps:</u></h1>
-
+ 
 <u>1-pip install django</u> 
 
 <u>2-pip install Pillow</u>
