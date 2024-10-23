@@ -8,7 +8,7 @@ Authentication Dashboard By Django
  
 <u>2-pip install Pillow</u>
  
-<u>3-py manage.py makemigrations</u> 
+<u>3-py manage.py makemigrations</u>  
 
 <u>4-py manage.py migrate</u>
 
